@@ -4,5 +4,5 @@
 —本产品所有活动与苹果公司无关
 ![](https://github.com/fer-090/BJLP/blob/master/z1.png)
 ![](https://github.com/fer-090/BJLP/blob/master/z2.png)
-![](https://github.com/fer-090/BJLP/blob/master/1.png)
-![](https://github.com/fer-090/BJLP/blob/master/2.png)
+![](https://github.com/fer-090/BJLP/blob/master/3.png)
+![](https://github.com/fer-090/BJLP/blob/master/4.png)
